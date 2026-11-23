@@ -1,0 +1,5 @@
+dist/
+node_modules/
+.pytest_cache/
+screenshot.png
+test-results.xml
